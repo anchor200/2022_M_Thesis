@@ -1,0 +1,25 @@
+\nomenclatureentry{a\bm{$c$}@[{\bm{$c$}}]\begingroup A context, condition\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$C$}@[{\bm{$C$}}]\begingroup The set of contexts, conditions\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$o$}@[{\bm{$o$}}]\begingroup An option\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$O$}@[{\bm{$O$}}]\begingroup The set of options\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$s$}@[{\bm{$s$}}]\begingroup A scope of option\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$i_c$}@[{\bm{$i_c$}}]\begingroup The context vector\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$i_o$}@[{\bm{$i_o$}}]\begingroup The option vector\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$i$}@[{\bm{$i$}}]\begingroup The input vector\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$\varphi$}@[{\bm{$\varphi$}}]\begingroup A choice representation\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$q$}@[{\bm{$q$}}]\begingroup Query vector\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$\alpha$}@[{\bm{$\alpha$}}]\begingroup Attention vector\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$F_{sigmoid}$}@[{\bm{$F_{sigmoid}$}}]\begingroup Sigmoid function\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$F_{softmax}$}@[{\bm{$F_{softmax}$}}]\begingroup Softmax function\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$F_{msoftmax}$}@[{\bm{$F_{msoftmax}$}}]\begingroup Masked softmax function\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$W_q$}@[{\bm{$W_q$}}]\begingroup Weight parameter of input and query\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$M_k$}@[{\bm{$M_k$}}]\begingroup Key matrix\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$W_f$}@[{\bm{$W_f$}}]\begingroup Weight parameter of feature and output\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$M_v$}@[{\bm{$M_v$}}]\begingroup Value matrix\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$o$}@[{\bm{$o$}}]\begingroup Output\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a$P_t$@[{$P_t$}]\begingroup Prediction of target option\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a$L_{CE}$@[{$L_{CE}$}]\begingroup Cross entropy loss\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a\bm{$T$}@[{\bm{$T$}}]\begingroup Target vector\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a$L_m$@[{$L_m$}]\begingroup m degree regularization\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a$\beta_m$@[{$\beta_m$}]\begingroup weight decay factor of the m degree regularization\nomeqref {0}|nompageref}{i}
+\nomenclatureentry{a$\bm{P(E_{ks}|E_{kp})}$@[{$\bm{P(E_{ks}|E_{kp})}$}]\begingroup The select probability of the option k\nomeqref {0}|nompageref}{i}
